@@ -1,0 +1,22 @@
+numpy
+pandas
+scikit-learn
+mlflow
+huggingface_hub
+streamlit
+joblib
+matplotlib
+seaborn
+plotly
+
+
+# python src/data_register.py
+
+
+# python src/data_prep.py
+
+
+# python src/train.py
+
+
+# streamlit run src/app.py
